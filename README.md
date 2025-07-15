@@ -88,4 +88,4 @@ dz_js21/
 ## Репозиторій та демо
 
 - **GitHub Репозиторій**: [https://github.com/PalGalya/dz_js21](https://github.com/PalGalya/dz_js21)
-- **Vercel Демо**: [посилання на Vercel розгортання буде додано після деплою]
+- **Vercel Демо**: [https://dz-js21.vercel.app](https://dz-js21.vercel.app)
