@@ -1,0 +1,64 @@
+/* Стили для Stateful компонента */
+.stateful-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.mood-emoji {
+  font-size: 3rem;
+  margin: 15px 0;
+}
+
+.counter-value {
+  font-size: 1.5rem;
+  margin: 20px 0;
+  font-weight: bold;
+}
+
+.btn {
+  margin: 0 5px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn-decrement {
+  background-color: #ff6b6b;
+}
+
+.btn-reset {
+  background-color: #aaaaaa;
+}
+
+.btn-increment {
+  background-color: #4ecdc4;
+}
+
+/* Цвета фона в зависимости от значения счетчика */
+.bg-very-positive {
+  background-color: #d4edda;
+}
+
+.bg-positive {
+  background-color: #e8f4f8;
+}
+
+.bg-neutral {
+  background-color: #ffffff;
+}
+
+.bg-negative {
+  background-color: #fff3cd;
+}
+
+.bg-very-negative {
+  background-color: #f8d7da;
+}
